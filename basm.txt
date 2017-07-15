@@ -1,0 +1,7 @@
+name=raw_input()
+if name=="Arnold":
+	print "HELLO" + name
+elif name=="Ironman":
+    print "HELLO" + name
+else:
+    print name
